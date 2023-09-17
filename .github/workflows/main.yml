@@ -25,7 +25,6 @@
 #       - name: Print project tree
 #         run: tree .
 
-# .github/workflows/main.yml
 name: Main Taski workflow
 
 on:
